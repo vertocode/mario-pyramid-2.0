@@ -18,7 +18,7 @@ int main(void)
             if(i + j < n - 1)
                 printf(" ");
             else
-                printf("#");
+                printf("X");
         }
         printf("  ");
         for(int j = 0; j < n; j++)
@@ -26,7 +26,7 @@ int main(void)
             if(j > i)
             printf("");
             else
-            printf("#");
+            printf("X");
         }
         printf("\n");
 
