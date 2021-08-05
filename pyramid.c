@@ -8,7 +8,7 @@ int main(void)
     {
         //take user input
         n = get_int("Height: ");
-    } while(n < 1 || n > 8);
+    } while(n < 1 || n > 20);
 
     //create pyramids
     for (int i = 0; i < n; i++)
