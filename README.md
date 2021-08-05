@@ -1,2 +1,2 @@
-# mario-pyramid-2.0
+#pyramid
 creates two inverse pyramids that can be used in minigames, inspired by mario bros
